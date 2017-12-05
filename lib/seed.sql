@@ -6,5 +6,4 @@ VALUES (4, "Sargeant Brown", 19, "M", "Green", "playful", 0),
 VALUES (5, "Melissa", 13, "F", "dark brown", "goofy", 1),
 VALUES (6, "Grinch", 2, "M", "Black", "moody", 1),
 VALUES (7, "Wendy", 6, "F", "Blue", "naive", 1),
-VALUES (8, NULL, 20, "M", "black", "aggressive", 0),
-VALUES (9, NULL, 20, "F", "black", "aggressive", 0);
+VALUES (8, NULL, 20, "M", "black", "aggressive", 0);
